@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @henrysue! I am a BIE @ Amazon Seattle. 
+- 👋 Hi, I’m @henrysue! I am a BIE @ Amazon in Seattle. 
 
 - 👀 Feel free to check out my public repos for anything or henrysue.dev for my website.
 
